@@ -1,5 +1,5 @@
-# First: header
-## Second: subheader
+# First: Todo list for Sunday September 28, 2025
+## Second: Starting at 16:23 PM
 
 * Git Quiz 1 on Monday Sep 29, 2025
 * Status: on going
