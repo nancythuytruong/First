@@ -1,8 +1,10 @@
 # First: header
 ## Second: subheader
 
-* Item 1: * bulletpoint
-* **Item2**
-- Entry 1
-- **Entry2**
-Quiz 1 la ngay mai Monday Sep 29, 2025 
+* Git Quiz 1 on Monday Sep 29, 2025
+* Status: on going
+* HW Statistics due on Monday by 3pm
+* Halfway through
+* Read chapter 11 for Math class
+* Not started
+  
